@@ -14,3 +14,8 @@
 6.未读消息数量的显示；
 7.支持私聊；
 8.用户头像上传。
+
+#运行步骤
+1.npm install 安装依赖;
+2.cd ./server,npm start;
+3.cd ./client,npm start;
