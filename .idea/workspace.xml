@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53b91f4c-8ecc-474b-afd5-c0caa38d792f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PROJECT" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gzhipin-client/src/upload" />
+  </component>
+  <component name="ProjectId" id="1UI9gYQ6yKSOyvdJkXAxW0gcQzF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../upload" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="http.certificates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\李媛媛\PROJECT\gzhipin-client\src\components" />
+      <recent name="C:\Users\李媛媛\PROJECT\gzhipin-client\src\components\plupload" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53b91f4c-8ecc-474b-afd5-c0caa38d792f" name="Default Changelist" comment="" />
+      <created>1575033353343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575033353343</updated>
+      <workItem from="1575033355340" duration="2511000" />
+      <workItem from="1575035886540" duration="86000" />
+      <workItem from="1575036240979" duration="704000" />
+      <workItem from="1575276189990" duration="4746000" />
+      <workItem from="1575291892603" duration="82000" />
+      <workItem from="1575377679118" duration="3232000" />
+      <workItem from="1575440994181" duration="6082000" />
+      <workItem from="1575461126816" duration="50000" />
+      <workItem from="1575534916513" duration="6584000" />
+      <workItem from="1575598968241" duration="11902000" />
+      <workItem from="1575637736056" duration="208000" />
+      <workItem from="1575638399779" duration="89000" />
+      <workItem from="1575697151848" duration="34744000" />
+      <workItem from="1575776839831" duration="16755000" />
+      <workItem from="1575797754605" duration="6901000" />
+      <workItem from="1575810301673" duration="4750000" />
+      <workItem from="1575868116134" duration="12060000" />
+      <workItem from="1575888024567" duration="14735000" />
+      <workItem from="1575939412312" duration="9560000" />
+      <workItem from="1575988060435" duration="1533000" />
+      <workItem from="1576150473442" duration="14729000" />
+      <workItem from="1576479281928" duration="30000" />
+      <workItem from="1576764709286" duration="194000" />
+      <workItem from="1577088836268" duration="2000" />
+      <workItem from="1577964012184" duration="50000" />
+      <workItem from="1577964094652" duration="601000" />
+      <workItem from="1577964777142" duration="9000" />
+      <workItem from="1578032213525" duration="7939000" />
+      <workItem from="1578123080779" duration="2000" />
+      <workItem from="1578996200924" duration="70000" />
+      <workItem from="1579230333541" duration="5506000" />
+      <workItem from="1579333037100" duration="7625000" />
+      <workItem from="1579350379340" duration="730000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/gzhipin-client/src/components/nav-footer/nav-footer.jsx</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
