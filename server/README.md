@@ -38,8 +38,11 @@
 	|参数		|是否必选 |类型     |说明
 	|username    |Y       |string   |用户名
 	|password    |Y       |string   |密码
+	
+## 3、 上传用户头像
+        localhost:3000/upload
 
-## 3、更新用户信息
+## 4、更新用户信息
 
 ### 请求URL：
 	localhost:3000/update
@@ -57,7 +60,7 @@
 	|company   |N       |string   |公司
 
 
-## 4、获取当前的user(根据cookie)
+## 5、获取当前的user(根据cookie)
 
 ### 请求URL：
 	localhost:3000/user
@@ -69,7 +72,7 @@
 
 	无
 
-## 5、获取用户列表
+## 6、获取用户列表
 
 ### 请求URL：
 	localhost:3000/userlist
@@ -83,7 +86,7 @@
 	|type       |Y       |string   |类型(dashen/laoban)
 
 
-## 6、获取当前用户的聊天消息列表
+## 7、获取当前用户的聊天消息列表
 
 ### 请求URL：
 	localhost:3000/msglist
@@ -94,4 +97,4 @@
 ### 参数类型
 	无
 
-## 7、 修改指定消息为已读
+## 8、 修改指定消息为已读
