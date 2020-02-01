@@ -1,5 +1,7 @@
 # KAO-PU-ZHIPIN
-前端开发项目，涉及React,Nodejs,MangoDB的使用。
+该项目是基于新版本 React 的全栈项目，此项目为一个前后台分离的招聘的 SPA, 包括前端应用和后端应用。
+包括用户注册/登陆, Boss/牛人列表, 实时聊天等功能模块。
+前端技术: React全家桶 + ES6 + Webpack 等、后端技术: NodeJS + Express + MongoDB + SocketIO等。
 # client
 项目前台
 # server
