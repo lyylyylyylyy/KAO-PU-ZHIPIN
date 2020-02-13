@@ -21,3 +21,6 @@
 1.npm install 安装依赖;
 2.cd ./server,npm start;
 3.cd ./client,npm start;
+
+# 运行效果
+![image](.idea/1.png)
