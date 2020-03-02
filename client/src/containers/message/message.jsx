@@ -74,11 +74,13 @@ class Message extends Component {
             const targetUserId = msg.to===user._id ? msg.from : msg.to
             // 得到目标用户的信息
             const targetUser = users[targetUserId]
+            const choose = targetUser.choose
+            var targetIcon = targetUser.header ? (choose===0 ? require(`../../assets/images/${targetUser.header}.png`) : targetUser.header): null
             return (
               <Item
                 key={msg._id}
                 extra={<Badge text={msg.unReadCount}/>}
-                thumb={targetUser.header ? require(`../../assets/images/${targetUser.header}.png`) : null}
+                thumb= {targetIcon}
                 arrow='horizontal'
                 onClick={() => this.props.history.push(`/chat/${targetUserId}`)}
               >

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53b91f4c-8ecc-474b-afd5-c0caa38d792f" name="Default Changelist" comment="" />
+    <list default="true" id="53b91f4c-8ecc-474b-afd5-c0caa38d792f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/containers/message/message.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/containers/message/message.jsx" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +16,7 @@
     <favorites_list name="PROJECT" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gzhipin-client/src/upload" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UI9gYQ6yKSOyvdJkXAxW0gcQzF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -21,7 +25,7 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
     <property name="js.last.introduce.type" value="CONST" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../upload" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="http.certificates" />
   </component>
@@ -86,6 +90,10 @@
       <workItem from="1579230333541" duration="5506000" />
       <workItem from="1579333037100" duration="7625000" />
       <workItem from="1579350379340" duration="730000" />
+      <workItem from="1582260148900" duration="1006000" />
+      <workItem from="1583068669344" duration="15000" />
+      <workItem from="1583072834359" duration="8000" />
+      <workItem from="1583153686479" duration="2524000" />
     </task>
     <servers />
   </component>
