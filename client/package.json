@@ -39,6 +39,7 @@
     "redux-devtools-extension": "^2.13.2"
   },
   "scripts": {
+    "start" : "node app.js",
     "start": "react-app-rewired start",
     "build": "react-app-rewired build --dest ../backend/public",
     "test": "react-app-rewired test --env=jsdom",
