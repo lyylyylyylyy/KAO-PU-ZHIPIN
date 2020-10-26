@@ -7,7 +7,7 @@ import {connect} from 'react-redux'
 import {Redirect} from 'react-router-dom'
 import {NavBar, InputItem, Button, TextareaItem} from 'antd-mobile'
 import HeaderSelector from '../../components/header-selector/header-selector'
-import {updateUser,getFile} from '../../redux/actions'
+import {updateUser} from '../../redux/actions'
 import Demo from "../../components/upload/upload";
 
 class DashenInfo extends Component {

@@ -3,11 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/core": "^7.12.3",
     "ajax": "0.0.4",
     "antd": "^3.26.0",
     "antd-img-crop": "^2.3.1",
     "antd-mobile": "^2.1.8",
     "axios": "^0.18.0",
+    "babel-loader": "^8.1.0",
     "ejs": "^3.0.1",
     "express": "^4.17.1",
     "formidable": "^1.2.1",
@@ -31,6 +33,7 @@
     "superagent": "^5.1.2"
   },
   "devDependencies": {
+    "@babel/preset-react": "^7.12.1",
     "babel-plugin-import": "^1.7.0",
     "less": "^2.7.3",
     "less-loader": "^4.1.0",
@@ -39,12 +42,10 @@
     "redux-devtools-extension": "^2.13.2"
   },
   "scripts": {
-    "start" : "node app.js",
     "start": "react-app-rewired start",
-    "build": "react-app-rewired build --dest ../backend/public",
+    "build": "react-app-rewired build",
     "test": "react-app-rewired test --env=jsdom",
-    "eject": "react-scripts eject",
-    "client": "serve build"
+    "eject": "react-scripts eject"
   },
   "proxy": "http://localhost:4000"
 }

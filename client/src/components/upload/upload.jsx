@@ -1,6 +1,6 @@
-import React,{Component} from 'react'
+import React from 'react'
 import {
-    Upload, Icon, message,Modal
+    Upload, Icon, message
 } from 'antd';
 import 'antd/dist/antd.css';
 import PropTypes from "prop-types";

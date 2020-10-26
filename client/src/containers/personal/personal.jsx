@@ -3,12 +3,10 @@
  */
 
 import React from 'react'
-import {Result, List, WhiteSpace, Button, Modal,Icon} from 'antd-mobile'
+import {Result, List, WhiteSpace, Button, Modal} from 'antd-mobile'
 import {connect} from 'react-redux'
 import Cookies from 'js-cookie'
 import {resetUser} from '../../redux/actions'
-import {Col} from "antd";
-import Demo from "../../components/upload/upload";
 
 const Item = List.Item
 const Brief = Item.Brief
